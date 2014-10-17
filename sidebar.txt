@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[dmv:home|Door43 (dmv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-dmv|d43-dmv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-dmv/archive/master.zip|d43-dmv.zip]]
+
+**Recent Changes**
+{{changes>ns = dmv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/dmv|Ethnologue data]]
+
